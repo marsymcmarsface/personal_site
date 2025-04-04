@@ -1,0 +1,4 @@
+baseURL = 'marsy.mcmarsface.com'
+languageCode = 'en-us'
+title = "Marsy's Personal Site"
+theme = "playtime"
